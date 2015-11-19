@@ -15,7 +15,7 @@
     "serve-static" : "latest",
     "body-parser" : "latest",
     "morgan" : "latest",
-    "errorhandler" : "latest",
+    "errorhandler" : "latest"
   },
   "engines": {
     "node": "latest",
