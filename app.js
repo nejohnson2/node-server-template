@@ -26,7 +26,6 @@ app.use(bodyParser());//deals with incoming request objects
 app.use(morgan());
 app.use(errorhandler({ dumpExceptions: true, showStack: true }));
 
-
 app.use(express.static(path.join(__dirname, 'public')));    
 
 //app.db = mongoose.connect(process.env.MONGOLAB_URI);
