@@ -1,0 +1,24 @@
+{
+  "name": "template",
+  
+  "author" : {
+	"name": "Nicholas Johnson",
+	"email": "nejohnson2@gmail.com",
+	"url": "http://www.nejohnson2.com"
+  },
+  
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "hogan-express" : "0.3.3",
+    "mongoose": "latest",
+    "serve-static" : "latest",
+    "body-parser" : "latest",
+    "morgan" : "latest",
+    "errorhandler" : "latest",
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  }
+}
